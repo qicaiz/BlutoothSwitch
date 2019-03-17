@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_left_margin">27dp</dimen>
+    <dimen name="btn_right_margin">27dp</dimen>
+
+</resources>
